@@ -1,27 +1,25 @@
 # David Usoro 👋
 
-## Frontend Developer | UI/UX Enthusiast | Learning Backend
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-davidusoro.ng-2563eb?style=for-the-badge)](https://davidusoro.ng)
-[![Email](https://img.shields.io/badge/Email-davidusoroh@outlook.com-2563eb?style=for-the-badge)](mailto:davidusoroh@outlook.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B234%20904%20622%205875-2563eb?style=for-the-badge)](tel:+2349046225875)
+## Frontend Developer | UI/UX Enthusiast
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidusoro.ng-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://davidusoro.ng)
+[![Email](https://img.shields.io/badge/Email-davidusoroh@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidusoroh@outlook.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B234%20904%20622%205875-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2349046225875)
 
 ### About Me
 - 🎨 Creating beautiful and functional web experiences
 - 🌱 Currently expanding expertise in full-stack development
 - 💡 Passionate about clean code and thoughtful design
 - 📚 Learning PHP and MySQL for backend development
-- 📚 Also learning Node.js and React.js
 
 ### Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Featured Projects
+### Concept Based Featured Projects
 
 #### 1. TravelGo - Booking Platform
 A modern travel booking interface with interactive components and dynamic pricing.
@@ -62,7 +60,9 @@ A financial dashboard with real-time analytics and performance metrics.
 - Node.js
 
 ### Connect With Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/slimdadiwoody)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014e88830207ab7659)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 ---
 ⭐️ From [Blaqbeard](https://github.com/Blaqbeard)
+
