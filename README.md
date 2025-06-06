@@ -61,7 +61,7 @@ A financial dashboard with real-time analytics and performance metrics.
 
 ### Connect With Me
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014e88830207ab7659)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/slimdadiwoody)
 
 ---
 ⭐️ From [Blaqbeard](https://github.com/Blaqbeard)
