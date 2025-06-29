@@ -1,7 +1,7 @@
 # David Usoro 👋
 
-## Frontend Developer | UI/UX Enthusiast
-[![Portfolio](https://img.shields.io/badge/Portfolio-davidusoro.ng-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://davidusoro.ng)
+## Full-Stack Developer | UI/UX Enthusiast
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidusoro.ng-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.davidusoro.ng)
 [![Email](https://img.shields.io/badge/Email-davidusoroh@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidusoroh@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B234%20904%20622%205875-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2349046225875)
 
